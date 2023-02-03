@@ -1,0 +1,36 @@
+body {
+    font-family: 'Chelsea Market', cursive;
+    background: aquamarine;
+}
+
+.header_div {
+    background: white;
+    color: blue;
+}
+
+.header_div p {
+    font-family: 'Chelsea Market', cursive;
+    color: orange;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main_div button {
+    font-family: 'Chelsea Market', cursive;
+    margin: top 30px;
+    font-weight: bolder;
+    width: 130px;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
